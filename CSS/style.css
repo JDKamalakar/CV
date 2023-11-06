@@ -3,6 +3,9 @@ body {
 }
 hr {
     color: black;
+    border-style: dotted;
+    size: 10dp;
+    margin: 2%, 20%, 2% 20%;
 }
 img {
     
