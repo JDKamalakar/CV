@@ -1,10 +1,13 @@
 body {
     background-color: aqua;
 }
+
 hr {
     color: black;
     border-style: dotted;
 }
-img {
-    
+
+#Profile-Photo {
+    height: 200px;
+    width: 200px;
 }
