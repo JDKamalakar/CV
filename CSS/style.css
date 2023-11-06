@@ -4,8 +4,8 @@ body {
 hr {
     color: black;
     border-style: dotted;
-    size: 10dp;
-    margin: 2%, 20%, 2% 20%;
+    size: 100dp;
+    margin: 10dp, 100dp, 10dp, 100dp;
 }
 img {
     
